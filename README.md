@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fstorino
 - 👀 I’m interested in data collection and analysis with Python.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on collection and analysis of ICT data.
+- 💞️ I’m looking to collaborate on collection and analysis of ICT-related data.
 - 📫 You can reach me at fstorino AT nic.br.
